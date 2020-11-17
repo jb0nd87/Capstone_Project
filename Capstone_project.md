@@ -2,53 +2,26 @@
 
 ## Project Links
 
-- [Link to github repo](https://github.com/jb0nd87/Project-2---Comic-Book-App)
-- [Netlify link](https://comic-search.netlify.app)
+- [Link to github repo]()
+- [Netlify link]()
 
 ## Project Description
 
-I want to build a search app to a comic book database. I want the look and functionality to be similar to the Marvel site...but more simplified. The cards will render looking like the comic book and open up to show the details.
+An rock climbers help app that will show the national park in the U.S. where climbing is allowed. It will be built using D3 for the visualizations and using Google Maps API. I can be used to track which places the user has been and which climbs they have done and be able to mark them down as completed.
 
 - [Marvel Site](https://www.marvel.com/comics?&options%5Boffset%5D=0&totalcount=12)
 
 ## API
 
-I found the Comicvine API that returns data. The data from Comicvine comes out in XML format so I have to figure out how to render the data without json.
 
-```
-{
-"error": "OK",
-"limit": 100,
-"offset": 0,
-"number_of_page_results": 100,
-"number_of_total_results": 140356,
-"status_code": 1,
-"results": [
-{
-"aliases": null,
-"api_detail_url": "https://comicvine.gamespot.com/api/character/4005-164503/",
-"birth": null,
-"count_of_issue_appearances": 1,
-"date_added": "2020-09-17 10:26:52",
-"date_last_updated": "2020-09-17 10:26:52",
-"deck": null,
-"description": null,
-"first_appeared_in_issue": {
-"api_detail_url": "https://comicvine.gamespot.com/api/first_appeared_in_issue/4000-706899/",
-"id": 706899,
-"name": "HC/TPB",
-"issue_number": "1"
-},
-
-```
 
 ## Wireframes
 
 Here are my wireframes for how I would like the finished app to look like.
 
-- [Wireframes](https://wireframepro.mockflow.com/editor.jsp?editor=on&publicid=M691d78876174be864032a631e0b2cf761601641559109&perm=Create&projectid=Mdff3e867f4589556f14f364e92015cab1601641751834&ptitle=Comic%20app&bgcolor=white&category=Ma075999a4338333eed91b3af8ac6507f1583824829811&store=yes#/page/d9f1e7c5497746d8a0d668bedde05334)
-- [React Architecture](https://res.cloudinary.com/dv01780vo/image/upload/v1601909000/IMG_20201005_074121_ybsc74.jpg)
-- [Time/Priority Matrix](https://res.cloudinary.com/dv01780vo/image/upload/v1601908425/IMG_20201005_073126_tyfz1o.jpg)
+- [Wireframes]()
+- [React Architecture]()
+- [Time/Priority Matrix]()
 
 ### MVP/PostMVP - 5min
 
