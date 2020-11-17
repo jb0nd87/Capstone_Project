@@ -7,7 +7,7 @@
 
 ## Project Description
 
-An rock climbers help app that will show the national park in the U.S. where climbing is allowed. It will be built using D3 for the visualizations and using Google Maps API. I can be used to track which places the user has been and which climbs they have done and be able to mark them down as completed.
+A rock climbers help app that will show the national park in the U.S. where climbing is allowed. It will be built using D3 for the visualizations and using Google Maps API. I can be used to track which places the user has been and which climbs they have done and be able to mark them down as completed.
 
 - [Marvel Site](https://www.marvel.com/comics?&options%5Boffset%5D=0&totalcount=12)
 
