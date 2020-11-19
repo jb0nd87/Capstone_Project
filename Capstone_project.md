@@ -13,13 +13,12 @@ A rock climbers help app that will show the national park in the U.S. where clim
 
 - [Mountain Project](https://www.mountainproject.com/data)
 
-## Wireframes
+## Wire-frames
 
-Here are my wireframes for how I would like the finished app to look like.
+Here are my wire-frames for how I would like the finished app to look like.
 
-- [Wireframes](https://www.canva.com/design/DAEN520loCM/dnGNBKu1XjHfN8pGnuYpqg/edit)
-- [React Architecture]()
-- [Time/Priority Matrix]()
+- [Wire-frames](https://www.canva.com/design/DAEN520loCM/dnGNBKu1XjHfN8pGnuYpqg/edit)
+- [React Architecture](https://docs.google.com/drawings/d/1kCzV8C5CnbazdDEOn_OeduQsTAMo4TaUs2xPgUir2Jg/edit)
 
 ### MVP/PostMVP - 5min
 
