@@ -54,12 +54,12 @@ Based on the initial logic defined in the previous sections try and breakdown th
 
 | Component    | Priority | Estimated Time | Time Invested | Actual Time |
 | ------------ | :------: | :------------: | :-----------: | :---------: |
-| App          |    H     |     10hrs      |     6hrs      |    10hrs    |
-| User         |    M     |      3hrs      |     2hrs      |    4hrs     |
-| Form         |    H     |     10hrs      |     10hrs     |    12hrs    |
-| Map          |    H     |     10hrs      |      hrs      |    8hrs     |
-| Climb List   |    L     |      3hrs      |     3hrs      |    3hrs     |
-| Total        |    H     |     36hrs      |     31hrs     |    37hrs    |
+| App          |    H     |     10hrs      |     0hrs      |    0hrs     |
+| User         |    M     |      3hrs      |     0hrs      |    0hrs     |
+| Form         |    H     |     10hrs      |     0hrs      |    0hrs     |
+| Map          |    H     |     10hrs      |     0hrs      |    0hrs     |
+| Climb List   |    L     |      3hrs      |     0hrs      |    0hrs     |
+| Total        |    H     |     36hrs      |     0hrs      |    0hrs     |
 
 ## Additional Libraries
 
