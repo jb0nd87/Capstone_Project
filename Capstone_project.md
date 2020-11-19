@@ -63,8 +63,6 @@ Based on the initial logic defined in the previous sections try and breakdown th
 
 ## Additional Libraries
 
-I used react bootstrap for my navbar.
+I am going to use react bootstrap for my navbar.
 
 ## Code Snippet
-
-The thing that got me the most excited was when I got the .map function to work and return data with the help of Joe and also another friend of mine.
